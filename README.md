@@ -1,5 +1,6 @@
 # Brainfuck-transpiler
-Brainfuck transpiler
+
+[![Build Status](https://travis-ci.org/Kobrasadetin/Brainfuck-transpiler.svg?branch=master)](https://travis-ci.org/Kobrasadetin/Brainfuck-transpiler)
 
 This transpiler is created for the purpose of completing a Codingwars kata.
 
