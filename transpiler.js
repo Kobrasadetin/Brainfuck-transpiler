@@ -135,7 +135,6 @@ class Instruction {
     constructor(symbol, paramValidator) {
         this.symbol = symbol;
         this.paramValidator = paramValidator;
-        //this.fullRegex = new RegExp(`(${symbol} +${paramList.map(param => param.regex).join(" +")})`)
     }
     matches(string) {
         return string === this.symbol;
