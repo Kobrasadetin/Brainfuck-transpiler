@@ -2,28 +2,10 @@
 Brainfuck transpiler
 
 This transpiler is created for the purpose of completing a Codingwars kata.
+
 It is released under GPLv3 or later.
 
-
-This is the original task:
-
-## Prologue
-
-In this kata. We assume that you know what [BrainFuck](http://en.wikipedia.org/wiki/Brainfuck) is. And it would be better if you were able to recite all 8 basic operators to solve this kata.
-
-## Background
-
-Have you ever coded BrainFuck by hand ?  
-Have you ever counted the operators again and again to make sure that the pointer points to the correct cell ?  
-Is it fun ?  
-Of course it is fun, especially when you produce a super short code abusing every cells while having the same functionality as long long codes.  
-But is it always that fun ?
-
-We know what to do if we are not 100 percent satisfied with an existing language. Stop using it, or create another language and transpile to it.
-
-## Requirement
-
-You are given a `code` follows the following specification, and are going to transpile it to BrainFuck.
+This is the original specification from codingwars.com:
 
 ## Specification
 
